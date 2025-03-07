@@ -1,2 +1,2 @@
-# Out-of-the-conversatiom
+# Fake It
 A fun game for a group of people
